@@ -1,0 +1,14 @@
+-Create game
+-Create multiple scenes :
+  -Title screen
+  -main menu
+    -help
+    -server connection
+    -maybe options
+  -one for every number of players
+  -scoreboard
+  -spectator mode
+-implement Node server and WebSocket
+-Implement audio
+-Some eye candy
+-Publish on github & maybe on steam
