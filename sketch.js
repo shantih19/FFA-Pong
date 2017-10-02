@@ -1,7 +1,7 @@
 var bar
 function setup(){
   createCanvas(windowWidth, windowHeight);
-  bar = createSprite((windowWidth / 2) - 40, windowHeight - 40, 100, 15);
+  bar = createSprite((windowWidth / 2), windowHeight - 40, 120, 15);
   document.addEventListener('contextmenu', event => event.preventDefault());
   document.body.style.overflow=false?"":"hidden";
   p5.disableFriendlyErrors = true;
